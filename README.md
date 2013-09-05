@@ -12,5 +12,6 @@ Mission executive to control JHU ROV with Jason Talk (JT) commands (UDP broadcas
 * RUN
 
 Modify the config parameters directly in pyMC/__init__.py
+
 Execute the demo version: pymc_mission_demo.py
 
